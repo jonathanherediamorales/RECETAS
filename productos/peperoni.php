@@ -47,7 +47,7 @@ if(isset($body) || $body == true)
 
                 <div id="carrito" class="dropdown-menu" aria-labelledby="navbarCollapse"> </div>
                 <div class="card-body">
-                <img src="img/4 quesos.jpg" class="imagen" alt="Producto 4">
+                <img src="img/peperoni.jpg" class="imagen" alt="Producto 4">
 <br><br>
                     <h2 >
                     <li>100 gr. de pepperoni</li> 

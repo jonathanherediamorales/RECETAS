@@ -3,7 +3,7 @@ if(isset($body) || $body == true)
 {
     echo '<body style="background-color:rgb(196, 81, 28)">';
 } else {
-    echo '<body style="background-color:rgba(60, 136, 172, 0.644)">';
+    echo '<body style="background-color:green">';
 }
 
 ?>
