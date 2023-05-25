@@ -32,9 +32,7 @@ if(isset($body) || $body == true)
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
 					
-					<li class="nav-item">
-						<a class="nav-link" href="pizzas.php">pizzas</a>
-					</li>
+					
 				</ul>
 			</div>
 		</nav>
@@ -64,11 +62,7 @@ if(isset($body) || $body == true)
                     <li>Queso rallado para pizza (variado) 100 g</h2> <br></li> 
 
                     <h2>
-                    Cómo hacer Pizza carbonara <br>
-                    Dificultad: Fácil <br>
-                    30 min Tiempo total  <br>
-                    15 min elaboración    <br>
-                    15 min Cocción        <br>
+                    
                     <br>
                     La receta de la carbonara que vamos a usar para hacer la pizza no es la de la receta de la salsa carbonara auténtica, la que se hace sin nata, 
                     sino la que se suele utilizar en las recetas de pizza carbonara de la mayoría de cadenas de restaurantes y empresas de pizza a domicilio, es decir la que se elabora con bacon, nata, champiñones y queso. <br><br>

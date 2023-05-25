@@ -91,11 +91,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card">
-                        <img src="img/.jpg" class="card-img " alt="Producto 6">
+                        <img src="img/4 quesos.jpg" class="card-img " alt="Producto 6">
                         <div class="card-body">
-                            <h5 class="card-title">Laptop</h5>
-                            <p class="card-text">$300</p>
-                            <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                            <h5 class="card-title">pizza 4 quesos</h5>
+                            <a href="productos/4_quesos.php" class="btn btn-danger">ver receta</button></a>
                         </div>
                     </div>
                 </div>

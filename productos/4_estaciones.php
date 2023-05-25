@@ -32,9 +32,7 @@ if(isset($body) || $body == true)
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
 					
-					<li class="nav-item">
-						<a class="nav-link" href="pizzas.php">pizzas</a>
-					</li>
+					
 				</ul>
 			</div>
 		</nav>
@@ -62,11 +60,7 @@ if(isset($body) || $body == true)
                     <li>Salsa de tomate 3 cucharadas</li>
                     <li>Orégano seco al gusto</h2></li> 
                     <h2>
-                    Cómo hacer pizza Fiesta italiana <br>
-                    Dificultad: Fácil <br>
-                    Tiempo total ----- 30 m <br>
-                    Elaboración  ----- 15 m <br>
-                    Cocción      ---------- 15 m <br>
+                
                     <br>
                     <h2>
                     Preparamos los ingredientes que vamos a utilizar, laminando los champiñones y las aceitunas negras, 

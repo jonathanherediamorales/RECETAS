@@ -1,0 +1,83 @@
+<?php
+if(isset($body) || $body == true)
+{
+    echo '<body style="background-color:rgb(196, 81, 28)">';
+} else {
+    echo '<body style="background-color:rgba(60, 136, 172, 0.644)">';
+}
+
+?>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<body bgcolor="yellow">
+<meta charset="UTF-8">
+    <meta name="viewport">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Pizza 4 quesos</title>
+    
+</head>
+<body>
+     
+	<div class="row justify-content-between mb-5">
+		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+			<a class="navbar-brand" href="">pizzas caseras</DEl></a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+				aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					
+					
+				</ul>
+			</div>
+		</nav>
+	</div>
+<main>
+
+
+<h1 class="titulo">PIZZA 4 QUESOS</h1>
+    <div class="row">
+        <div class="col-lg-10 col-md-10 mb-10">
+            <div class="">
+
+                <div id="carrito" class="dropdown-menu" aria-labelledby="navbarCollapse"> </div>
+                <div class="card-body">
+                <img src="img/4 quesos.jpg" class="imagen" alt="Producto 4">
+<br><br>
+                    <h2 >
+                    <li>1 masa de pizza casera</li>
+                    <li>200 gr. de mozzarella</li>
+                    <li>80 gr. de queso azul</li>
+                    <li>100 gr. de queso parmesano rallado</li>
+                    <li>100 gr. de queso ricotta o provolone</li>
+                    <li>100 gr. de salsa de tomate casera</li>
+                    <li>Orégano</li>
+                    <li>Pimienta</h2></li> 
+                    <h2><br>
+                    
+                    <br>
+                    <h2>
+                    Para esta receta lo ideal es optar por una masa para pizza casera, pues esto hará una gran diferencia en el resultado final. Del mismo modo, te recomendamos hacer una salsa de tomate casera con tomate natural triturado, un poco de aceite de oliva, sal, pimienta y tres hojas de albahaca fresca. Solo debes mezclar los ingredientes y dejar cocinar a fuego bajo hasta que espese.<br>
+                    Enciende el horno a 200ºC para que se vaya calentando mientras armas tu rica pizza 4 quesos. <br>                    
+                    Estira la base de la pizza y colócala en una bandeja apta para el horno previamente cubierta de papel vegetal. Pincha la masa con un tenedor para evitar que la misma suba durante la cocción. <br>
+                    Si has comprado la mozarella en bola entonces córtala en rodajas, trocea con las manos el queso azul y ralla el parmesano, prepara también el ricotta, que podrás distribuir con tus manos. Si has optado por el provolone, córtalo en trozos pequeños. <br>
+                    Esparce una generosa cantidad de salsa de tomate sobre la base y distribúyela uniformemente. Luego reparte los cuatro quesos por toda la masa y remata con un toque de orégano y pimienta al gusto. <br>
+                    Mete la pizza en el horno y deja cocinar 15 minutos o hasta que esté perfectamente dorada y los quesos gratinados. Sácala ¡y a disfrutar! Esta pizza 4 quesos casera es un lujo que todos en casa disfrutarán. <br>
+
+                
+                </h2>
+                    
+                    
+
+                    
+                </div>
+            </div>
+            
+</body>
+
+</html>

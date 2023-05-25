@@ -32,9 +32,7 @@ if(isset($body) || $body == true)
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
 					
-					<li class="nav-item">
-						<a class="nav-link" href="pizzas.php">pizzas</a>
-					</li>
+					
 				</ul>
 			</div>
 		</nav>
@@ -60,11 +58,7 @@ if(isset($body) || $body == true)
                     <li>200 gr. de queso mozzarella rallado</li>
                     <li>Orégano (opcional)</h2></li> 
                     <h2><br>
-                    Cómo hacer pizza hawaiana <br>
-                    Dificultad: Fácil <br>
-                    Tiempo total ----- 30 m <br>
-                    Elaboración  ----- 15 m <br>
-                    Cocción      ---------- 15 m <br>
+                  
                     <br>
                     <h2>
                     En primer lugar, con nuestra masa de pizza de casera ya hecha y extendida, lo siguiente que haremos será poner el horno a precalentar a 200ºC y cortar la piña en cuadraditos pequeños. <br>

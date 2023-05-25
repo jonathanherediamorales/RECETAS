@@ -32,9 +32,7 @@ if(isset($body) || $body == true)
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
 					
-					<li class="nav-item">
-						<a class="nav-link" href="pizzas.php">pizzas</a>
-					</li>
+					
 				</ul>
 			</div>
 		</nav>
@@ -62,11 +60,7 @@ if(isset($body) || $body == true)
                     <li>Aceite de oliva virgen extra un chorrito <br></li>
                     <li>Sal al gusto</h2></li>
                     <h2>
-                    Cómo hacer pizza Fiesta italiana <br>
-                    Dificultad: Fácil <br>
-                    Tiempo total ----- 20 m <br>
-                    Elaboración  ----- 10 m <br>
-                    Cocción      ---------- 10 m <br>
+                    
 <br>
                     Lo primero, necesitamos una masa de pizza para usar como base. 
                     Podemos utilizar una de las que vienen precocinadas o hacerla nosotros mismos siguiendo nuestros consejos para que salga perfecta. <br><br>
