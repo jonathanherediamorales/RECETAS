@@ -70,16 +70,9 @@ if(isset($body) || $body == true)
                     Si has comprado el queso mozarella fresco, córtalo en rodajas. Coloca la base de la pizza en una bandeja de horno cubierta con papel vegetal y pínchala con un tenedor para que no se levante con el calor de la cocción. <br><br>
                     Después añade salsa de tomate a la base y por encima agrega un poco de orégano y pimienta al gusto. Seguidamente incorpora el jamón, los champiñones, el queso y las aceitunas negras en caso de que quieras añadirlas. <br><br>
                     Introduce esta riza pizza de champiñones al horno y cocina durante 20 minutos o hasta que esté perfectamente dorada y lista para devorar. ¡Verás como todos se mueren por hincarle el diente! <br><br>
-
-                
-                </h2>
-                    
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

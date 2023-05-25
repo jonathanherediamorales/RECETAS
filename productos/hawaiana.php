@@ -67,12 +67,9 @@ if(isset($body) || $body == true)
                     introducimos la pizza en el horno en la parte más baja y la cocinamos a 200º C durante unos 20 minutos. <br>
                     </h2>
                     <img src="img/pasos hawaiana.jpg" class="imagen" alt="Producto 4">
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

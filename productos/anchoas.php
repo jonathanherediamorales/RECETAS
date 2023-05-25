@@ -68,16 +68,10 @@ if(isset($body) || $body == true)
                     Añade el queso mozarella con generosidad, luego distribuye las anchoas previamente escurridas en la pizza. Recuerda lo excederte pues se trata de un ingrediente de sabor salado e intenso.<br>
                     Escurre las alcaparras y añádelas a la preparación junto con las aceitunas negras. Si lo prefieres puedes usar aceitunas verdes también, ¡combinan de maravilla!<br>
                     Introduce en el horno entre 15 y 20 minutos, hasta que tu pizza de anchoas o puttanesca esté perfectamente tostada. Verás como esta delicia triunfa entre los fanáticos de las anchoas.<br>
-
-                
-                </h2>
-                    
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>
+

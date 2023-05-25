@@ -76,12 +76,9 @@ if(isset($body) || $body == true)
                     Añadimos un poco más de la salsa carbonara que hemos elaborado, -repartiéndolos por toda la superficie de la pizza-, espolvoreamos con abundante pimienta negra y la horneamos en horno a 230º durante unos 15 minutos hasta que los bordes de la pizza comiencen a tostarse.
                     </h2>
                     <img src="img/pasos carbonara.jpg" class="imagen" alt="producto 1">
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

@@ -76,12 +76,9 @@ if(isset($body) || $body == true)
                     Al servir, ponemos un poco de orégano sobre la zona del pesto para remarcar su color verde que habrá oscurecido y una flor de albahaca en la zona central.
                     </h2>
                     <img src="img/pasos italiana.jpg" class="imagen" alt="producto 1">
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

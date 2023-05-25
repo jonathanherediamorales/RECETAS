@@ -69,16 +69,9 @@ if(isset($body) || $body == true)
                     Estira la masa casera que has preparado y colócala en la bandeja cubierta con papel vegetal. Pincha la masa con un tenedor para que no suba. Luego, corta el pepperoni y el salami en rodajas finas.<br>
                     Cubre la base con salsa que has preparado y pon una capa con el queso mozzarella rallado, el pepperoni y las rodajas de salami. Remata con queso parmesano al gusto e introduce en el horno durante 15 minutos o hasta que esté perfectamente dorada.<br>
                     ¡Así de fácil es hacer una pizza pepperoni de lujo! Qué sabrosa te quedará. <br>
-
-                
-                </h2>
-                    
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

@@ -70,14 +70,9 @@ if(isset($body) || $body == true)
                     Mete la pizza en el horno y deja cocinar 15 minutos o hasta que esté perfectamente dorada y los quesos gratinados. Sácala ¡y a disfrutar! Esta pizza 4 quesos casera es un lujo que todos en casa disfrutarán. <br>
 
                 
-                </h2>
-                    
-                    
-
-                    
-                </div>
+                </h2></div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

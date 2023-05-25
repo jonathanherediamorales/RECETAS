@@ -73,13 +73,9 @@ if(isset($body) || $body == true)
                     indicando que la masa ya está cocida y crujiente. 
                     Espolvoreamos con orégano seco y llevamos a la mesa.
                     </h2>
-                    
-                    
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>

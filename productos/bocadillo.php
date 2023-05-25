@@ -80,11 +80,9 @@ if(isset($body) || $body == true)
                     Colocarlos en la bandeja y sazonar con un poco más de orégano. 
                     Hornear durante unos 10-15 minutos, hasta que el queso esté bien fundido y la masa dorada.
                     </h2>
-
-                    
                 </div>
             </div>
-            
+        </div>
+    </div>
 </body>
-
 </html>
